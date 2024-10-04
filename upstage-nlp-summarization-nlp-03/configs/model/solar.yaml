@@ -1,0 +1,4 @@
+model_name: "beomi/OPEN-SOLAR-KO-10.7B"
+lora_r: 16
+lora_alpha: 32
+lora_dropout: 0.05
